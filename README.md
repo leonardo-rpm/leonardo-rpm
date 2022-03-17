@@ -57,8 +57,7 @@
     </div>
 
     ##
-    <div style="text-align: center;">
+    
     🖥️ - Programar é meu hobbie :)
     <br>
     📙 - Análise e Desenvolvimento de Sistemas
-  </div>
