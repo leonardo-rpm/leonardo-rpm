@@ -43,8 +43,6 @@ Olá! Sou um Dev Jr e estou iniciando a programação com os seguintes códigos:
   <a href = "mailto:leonvrdx@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-reis-3228381b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/leonardo-rpm/leonardo-rpm/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
   ##
