@@ -1,8 +1,9 @@
 <h1 align="center">
   <b>Leonardo Reis</b>
 </h1>
-<p>
-Olá! Sou um Dev Jr e estou iniciando a programação com os seguintes códigos: 
+<p style="text-align: center;">
+  Olá! Sou um Dev Jr e estou iniciando a programação com os seguintes códigos:
+  </p> 
 </p)
 <p>
 <div align="center">
