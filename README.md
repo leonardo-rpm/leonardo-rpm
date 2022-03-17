@@ -17,33 +17,33 @@ Olá! Sou um Dev Jr e estou iniciando a programação com os seguintes códigos:
 <br/>
 <p align="left">
   <a href="https://github.com/leonardo-rpm">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gustavojesus25&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavojesus25&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=leonardo-rpm&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo-rpm&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojesus25&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-rpm&layout=compact&langs_count=7&theme=dracula"/>
 <div>
   
   
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leonardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leonardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
    ##
  
 <div> 
   <a href = "mailto:leonvrdx@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-martins-de-jesus-ab401b21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-reis-3228381b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/gustavojesus25/gustavojesus25/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leonardo-rpm/leonardo-rpm/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
